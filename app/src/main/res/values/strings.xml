@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MySchoolApp</string>
+    <string name="APP_ID">56218196574d41efaa656ce9a62ca0cc</string>
+    <string name="APP_CERTIFICATE">4ff23e94f9894ba69dbc4073fc9e089e</string>
 </resources>
